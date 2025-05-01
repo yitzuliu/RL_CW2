@@ -1,0 +1,1 @@
+If training in hex, cd to the ppo file, and enter python3 -u main.py --gpu --enable_recovery &

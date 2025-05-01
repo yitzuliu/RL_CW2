@@ -1,0 +1,401 @@
+
+Episode 400, Reward: 1180.0, MovingAvg(100): 565.90, avgMovingReward: 631.4, Epsilon: 0.1377, Actor_Loss: -16.3329, Critic_Loss: 7133.3986, Entropy: 2.0261
+
+Episode 401, Reward: 270.0, MovingAvg(100): 566.30, avgMovingReward: 595.2, Epsilon: 0.1370, Actor_Loss: -8.1843, Critic_Loss: 448.4820, Entropy: 1.9984
+
+Episode 402, Reward: 440.0, MovingAvg(100): 560.50, avgMovingReward: 579.7, Epsilon: 0.1363, Actor_Loss: 41.5956, Critic_Loss: 1594.2216, Entropy: 2.0339
+
+Episode 403, Reward: 710.0, MovingAvg(100): 560.80, avgMovingReward: 592.7, Epsilon: 0.1357, Actor_Loss: 37.8519, Critic_Loss: 1945.8701, Entropy: 2.0670
+
+Episode 404, Reward: 310.0, MovingAvg(100): 561.40, avgMovingReward: 564.5, Epsilon: 0.1350, Actor_Loss: -71.2453, Critic_Loss: 5776.1205, Entropy: 2.0735
+
+Episode 405, Reward: 230.0, MovingAvg(100): 561.90, avgMovingReward: 531.0, Epsilon: 0.1343, Actor_Loss: -17.9442, Critic_Loss: 812.5726, Entropy: 2.0725
+
+Episode 406, Reward: 260.0, MovingAvg(100): 558.10, avgMovingReward: 503.9, Epsilon: 0.1336, Actor_Loss: 2.7720, Critic_Loss: 348.7839, Entropy: 2.0543
+
+Episode 407, Reward: 280.0, MovingAvg(100): 552.30, avgMovingReward: 481.5, Epsilon: 0.1330, Actor_Loss: 24.3878, Critic_Loss: 776.7168, Entropy: 2.0467
+
+Episode 408, Reward: 670.0, MovingAvg(100): 555.90, avgMovingReward: 500.4, Epsilon: 0.1323, Actor_Loss: -33.9435, Critic_Loss: 2417.2099, Entropy: 2.0454
+
+Episode 409, Reward: 210.0, MovingAvg(100): 553.50, avgMovingReward: 471.3, Epsilon: 0.1316, Actor_Loss: -5.4097, Critic_Loss: 664.0489, Entropy: 2.0182
+
+Episode 410, Reward: 420.0, MovingAvg(100): 538.10, avgMovingReward: 466.2, Epsilon: 0.1310, Actor_Loss: 57.4918, Critic_Loss: 4267.5411, Entropy: 1.9993
+
+Episode 411, Reward: 330.0, MovingAvg(100): 536.40, avgMovingReward: 452.6, Epsilon: 0.1303, Actor_Loss: 32.1612, Critic_Loss: 2000.5078, Entropy: 2.0063
+
+Episode 412, Reward: 240.0, MovingAvg(100): 537.50, avgMovingReward: 431.3, Epsilon: 0.1297, Actor_Loss: -0.4134, Critic_Loss: 516.0064, Entropy: 2.0097
+
+Episode 413, Reward: 500.0, MovingAvg(100): 536.00, avgMovingReward: 438.2, Epsilon: 0.1290, Actor_Loss: 17.8530, Critic_Loss: 4446.9599, Entropy: 2.0313
+
+Episode 414, Reward: 210.0, MovingAvg(100): 534.40, avgMovingReward: 415.4, Epsilon: 0.1284, Actor_Loss: -2.7772, Critic_Loss: 1402.2907, Entropy: 2.0558
+
+Episode 415, Reward: 540.0, MovingAvg(100): 534.30, avgMovingReward: 427.8, Epsilon: 0.1277, Actor_Loss: -3.9244, Critic_Loss: 5188.1346, Entropy: 2.0403
+
+Episode 416, Reward: 230.0, MovingAvg(100): 534.60, avgMovingReward: 408.1, Epsilon: 0.1271, Actor_Loss: 12.2920, Critic_Loss: 449.7878, Entropy: 2.0277
+
+Episode 417, Reward: 310.0, MovingAvg(100): 533.90, avgMovingReward: 398.2, Epsilon: 0.1265, Actor_Loss: 47.6563, Critic_Loss: 2353.0254, Entropy: 2.0608
+
+Episode 418, Reward: 260.0, MovingAvg(100): 533.20, avgMovingReward: 384.4, Epsilon: 0.1258, Actor_Loss: -0.0832, Critic_Loss: 118.6142, Entropy: 2.0893
+
+Episode 419, Reward: 230.0, MovingAvg(100): 529.40, avgMovingReward: 369.0, Epsilon: 0.1252, Actor_Loss: -9.0596, Critic_Loss: 1148.2880, Entropy: 2.0933
+
+Episode 420, Reward: 450.0, MovingAvg(100): 529.90, avgMovingReward: 377.1, Epsilon: 0.1246, Actor_Loss: 38.0352, Critic_Loss: 2040.0569, Entropy: 2.0697
+
+Episode 421, Reward: 310.0, MovingAvg(100): 528.50, avgMovingReward: 370.4, Epsilon: 0.1240, Actor_Loss: 2.2018, Critic_Loss: 498.7455, Entropy: 2.0783
+
+Episode 422, Reward: 350.0, MovingAvg(100): 528.70, avgMovingReward: 368.3, Epsilon: 0.1233, Actor_Loss: -16.2450, Critic_Loss: 570.1455, Entropy: 2.0732
+
+Episode 423, Reward: 300.0, MovingAvg(100): 528.80, avgMovingReward: 361.5, Epsilon: 0.1227, Actor_Loss: -26.5276, Critic_Loss: 1816.8590, Entropy: 2.0610
+
+Episode 424, Reward: 270.0, MovingAvg(100): 522.10, avgMovingReward: 352.4, Epsilon: 0.1221, Actor_Loss: 16.7917, Critic_Loss: 590.2622, Entropy: 2.0545
+
+Episode 425, Reward: 220.0, MovingAvg(100): 517.40, avgMovingReward: 339.1, Epsilon: 0.1215, Actor_Loss: -0.6378, Critic_Loss: 1185.0015, Entropy: 2.0568
+
+Episode 426, Reward: 430.0, MovingAvg(100): 508.30, avgMovingReward: 348.2, Epsilon: 0.1209, Actor_Loss: 34.1503, Critic_Loss: 1650.0403, Entropy: 2.0436
+
+Episode 427, Reward: 370.0, MovingAvg(100): 502.60, avgMovingReward: 350.4, Epsilon: 0.1203, Actor_Loss: 7.6302, Critic_Loss: 1358.8549, Entropy: 2.0573
+
+Episode 428, Reward: 440.0, MovingAvg(100): 497.70, avgMovingReward: 359.3, Epsilon: 0.1197, Actor_Loss: 35.6265, Critic_Loss: 1299.0655, Entropy: 2.0535
+
+Episode 429, Reward: 600.0, MovingAvg(100): 499.90, avgMovingReward: 383.4, Epsilon: 0.1191, Actor_Loss: 47.1316, Critic_Loss: 3205.6898, Entropy: 2.0488
+
+Episode 430, Reward: 320.0, MovingAvg(100): 496.50, avgMovingReward: 377.1, Epsilon: 0.1185, Actor_Loss: 40.7858, Critic_Loss: 2085.6692, Entropy: 2.0438
+
+Episode 431, Reward: 460.0, MovingAvg(100): 494.90, avgMovingReward: 385.4, Epsilon: 0.1179, Actor_Loss: 7.6902, Critic_Loss: 460.5478, Entropy: 2.0457
+
+Episode 432, Reward: 240.0, MovingAvg(100): 492.10, avgMovingReward: 370.8, Epsilon: 0.1173, Actor_Loss: -1.8301, Critic_Loss: 338.9869, Entropy: 2.0453
+
+Episode 433, Reward: 1790.0, MovingAvg(100): 507.30, avgMovingReward: 512.7, Epsilon: 0.1167, Actor_Loss: -686.2149, Critic_Loss: 581064.3313, Entropy: 2.0537
+
+Episode 434, Reward: 620.0, MovingAvg(100): 509.90, avgMovingReward: 523.5, Epsilon: 0.1161, Actor_Loss: -1.5901, Critic_Loss: 522.3367, Entropy: 2.0407
+
+Episode 435, Reward: 600.0, MovingAvg(100): 512.10, avgMovingReward: 531.1, Epsilon: 0.1156, Actor_Loss: 38.2418, Critic_Loss: 1972.4332, Entropy: 2.0352
+
+Episode 436, Reward: 630.0, MovingAvg(100): 509.20, avgMovingReward: 541.0, Epsilon: 0.1150, Actor_Loss: 9.1524, Critic_Loss: 969.8071, Entropy: 2.0360
+
+Episode 437, Reward: 530.0, MovingAvg(100): 511.80, avgMovingReward: 539.9, Epsilon: 0.1144, Actor_Loss: 44.8513, Critic_Loss: 2689.5617, Entropy: 2.0339
+
+Episode 438, Reward: 680.0, MovingAvg(100): 515.80, avgMovingReward: 553.9, Epsilon: 0.1138, Actor_Loss: 8.4672, Critic_Loss: 499.5914, Entropy: 2.0372
+
+Episode 439, Reward: 920.0, MovingAvg(100): 522.00, avgMovingReward: 590.5, Epsilon: 0.1133, Actor_Loss: 65.9743, Critic_Loss: 7327.6478, Entropy: 2.0250
+
+Episode 440, Reward: 360.0, MovingAvg(100): 523.50, avgMovingReward: 567.5, Epsilon: 0.1127, Actor_Loss: -3.3008, Critic_Loss: 539.4223, Entropy: 2.0202
+
+Episode 441, Reward: 470.0, MovingAvg(100): 520.40, avgMovingReward: 557.7, Epsilon: 0.1121, Actor_Loss: 33.1610, Critic_Loss: 1060.3828, Entropy: 2.0409
+
+Episode 442, Reward: 290.0, MovingAvg(100): 513.30, avgMovingReward: 531.0, Epsilon: 0.1116, Actor_Loss: 7.3474, Critic_Loss: 362.2246, Entropy: 2.0779
+
+Episode 443, Reward: 380.0, MovingAvg(100): 513.10, avgMovingReward: 515.9, Epsilon: 0.1110, Actor_Loss: 11.1596, Critic_Loss: 1056.4023, Entropy: 2.0841
+
+Episode 444, Reward: 300.0, MovingAvg(100): 512.90, avgMovingReward: 494.3, Epsilon: 0.1105, Actor_Loss: -26.6790, Critic_Loss: 868.5989, Entropy: 2.0843
+
+Episode 445, Reward: 1030.0, MovingAvg(100): 518.00, avgMovingReward: 547.8, Epsilon: 0.1099, Actor_Loss: 61.2480, Critic_Loss: 4960.0157, Entropy: 2.0694
+
+Episode 446, Reward: 330.0, MovingAvg(100): 511.50, avgMovingReward: 526.1, Epsilon: 0.1094, Actor_Loss: 20.2879, Critic_Loss: 723.8457, Entropy: 2.0703
+
+Episode 447, Reward: 570.0, MovingAvg(100): 506.20, avgMovingReward: 530.5, Epsilon: 0.1088, Actor_Loss: 46.5745, Critic_Loss: 3071.5369, Entropy: 2.0729
+
+Episode 448, Reward: 450.0, MovingAvg(100): 500.50, avgMovingReward: 522.4, Epsilon: 0.1083, Actor_Loss: 18.8000, Critic_Loss: 820.0543, Entropy: 2.0758
+
+Episode 449, Reward: 280.0, MovingAvg(100): 499.90, avgMovingReward: 498.2, Epsilon: 0.1077, Actor_Loss: 13.0921, Critic_Loss: 421.3192, Entropy: 2.0758
+
+Episode 450, Reward: 570.0, MovingAvg(100): 497.10, avgMovingReward: 505.4, Epsilon: 0.1072, Actor_Loss: 33.4603, Critic_Loss: 1939.5657, Entropy: 2.0831
+
+Episode 451, Reward: 220.0, MovingAvg(100): 493.70, avgMovingReward: 476.8, Epsilon: 0.1067, Actor_Loss: 13.4233, Critic_Loss: 357.4657, Entropy: 2.0783
+
+Episode 452, Reward: 470.0, MovingAvg(100): 494.60, avgMovingReward: 476.1, Epsilon: 0.1061, Actor_Loss: 59.2592, Critic_Loss: 4018.0233, Entropy: 2.0877
+
+Episode 453, Reward: 270.0, MovingAvg(100): 491.50, avgMovingReward: 455.5, Epsilon: 0.1056, Actor_Loss: 3.7743, Critic_Loss: 752.7627, Entropy: 2.1029
+
+Episode 454, Reward: 3430.0, MovingAvg(100): 522.10, avgMovingReward: 753.0, Epsilon: 0.1051, Actor_Loss: -128.7014, Critic_Loss: 20943.2137, Entropy: 2.1051
+
+Episode 455, Reward: 1020.0, MovingAvg(100): 530.60, avgMovingReward: 779.7, Epsilon: 0.1045, Actor_Loss: -47.6427, Critic_Loss: 3370.7578, Entropy: 2.0933
+
+Episode 456, Reward: 280.0, MovingAvg(100): 530.00, avgMovingReward: 729.7, Epsilon: 0.1040, Actor_Loss: 45.1694, Critic_Loss: 3177.6906, Entropy: 2.0847
+
+Episode 457, Reward: 400.0, MovingAvg(100): 526.20, avgMovingReward: 696.7, Epsilon: 0.1035, Actor_Loss: 11.4808, Critic_Loss: 443.7319, Entropy: 2.0950
+
+Episode 458, Reward: 220.0, MovingAvg(100): 525.10, avgMovingReward: 649.1, Epsilon: 0.1030, Actor_Loss: -20.6991, Critic_Loss: 1100.8403, Entropy: 2.0958
+
+Episode 459, Reward: 1010.0, MovingAvg(100): 532.70, avgMovingReward: 685.2, Epsilon: 0.1025, Actor_Loss: 29.1561, Critic_Loss: 14132.9992, Entropy: 2.0877
+
+Episode 460, Reward: 520.0, MovingAvg(100): 532.60, avgMovingReward: 668.6, Epsilon: 0.1019, Actor_Loss: 43.6533, Critic_Loss: 2988.4825, Entropy: 2.0826
+
+Episode 461, Reward: 1020.0, MovingAvg(100): 536.20, avgMovingReward: 703.8, Epsilon: 0.1014, Actor_Loss: 19.5513, Critic_Loss: 758.1058, Entropy: 2.0797
+
+Episode 462, Reward: 630.0, MovingAvg(100): 522.90, avgMovingReward: 696.4, Epsilon: 0.1009, Actor_Loss: -8.6701, Critic_Loss: 879.8728, Entropy: 2.0966
+
+Episode 463, Reward: 650.0, MovingAvg(100): 525.70, avgMovingReward: 691.8, Epsilon: 0.1004, Actor_Loss: -32.3484, Critic_Loss: 6806.8184, Entropy: 2.0910
+
+Episode 464, Reward: 550.0, MovingAvg(100): 529.40, avgMovingReward: 677.6, Epsilon: 0.0999, Actor_Loss: 58.3865, Critic_Loss: 4907.4866, Entropy: 2.0564
+
+Episode 465, Reward: 270.0, MovingAvg(100): 526.20, avgMovingReward: 636.8, Epsilon: 0.0994, Actor_Loss: 30.0499, Critic_Loss: 1152.8891, Entropy: 2.0480
+
+Episode 466, Reward: 360.0, MovingAvg(100): 524.60, avgMovingReward: 609.1, Epsilon: 0.0989, Actor_Loss: -19.9328, Critic_Loss: 1100.1508, Entropy: 2.0808
+
+Episode 467, Reward: 180.0, MovingAvg(100): 519.90, avgMovingReward: 566.2, Epsilon: 0.0984, Actor_Loss: 8.4143, Critic_Loss: 447.9284, Entropy: 2.0785
+
+Episode 468, Reward: 350.0, MovingAvg(100): 520.90, avgMovingReward: 544.6, Epsilon: 0.0979, Actor_Loss: -32.4736, Critic_Loss: 1454.4275, Entropy: 2.0834
+
+Episode 469, Reward: 330.0, MovingAvg(100): 519.30, avgMovingReward: 523.1, Epsilon: 0.0975, Actor_Loss: -10.0551, Critic_Loss: 639.0032, Entropy: 2.0838
+
+Episode 470, Reward: 300.0, MovingAvg(100): 520.70, avgMovingReward: 500.8, Epsilon: 0.0970, Actor_Loss: 47.5237, Critic_Loss: 2583.9538, Entropy: 2.0787
+
+Episode 471, Reward: 830.0, MovingAvg(100): 522.20, avgMovingReward: 533.7, Epsilon: 0.0965, Actor_Loss: 21.3089, Critic_Loss: 1304.8361, Entropy: 2.0673
+
+Episode 472, Reward: 270.0, MovingAvg(100): 512.80, avgMovingReward: 507.4, Epsilon: 0.0960, Actor_Loss: 1.5008, Critic_Loss: 928.1165, Entropy: 2.0608
+
+Episode 473, Reward: 150.0, MovingAvg(100): 506.90, avgMovingReward: 471.6, Epsilon: 0.0955, Actor_Loss: 37.6437, Critic_Loss: 1804.6218, Entropy: 2.0611
+
+Episode 474, Reward: 460.0, MovingAvg(100): 501.30, avgMovingReward: 470.5, Epsilon: 0.0950, Actor_Loss: 31.4174, Critic_Loss: 1216.5485, Entropy: 2.0616
+
+Episode 475, Reward: 260.0, MovingAvg(100): 500.30, avgMovingReward: 449.4, Epsilon: 0.0946, Actor_Loss: 4.1408, Critic_Loss: 1571.5743, Entropy: 2.0579
+
+Episode 476, Reward: 400.0, MovingAvg(100): 503.10, avgMovingReward: 444.5, Epsilon: 0.0941, Actor_Loss: -49.9718, Critic_Loss: 2651.1246, Entropy: 2.0627
+
+Episode 477, Reward: 310.0, MovingAvg(100): 502.70, avgMovingReward: 431.0, Epsilon: 0.0936, Actor_Loss: -34.0900, Critic_Loss: 1201.6689, Entropy: 2.0550
+
+Episode 478, Reward: 180.0, MovingAvg(100): 501.20, avgMovingReward: 405.9, Epsilon: 0.0932, Actor_Loss: 63.9851, Critic_Loss: 4147.5510, Entropy: 2.0411
+
+Episode 479, Reward: 600.0, MovingAvg(100): 503.60, avgMovingReward: 425.3, Epsilon: 0.0927, Actor_Loss: -91.5374, Critic_Loss: 11300.5969, Entropy: 2.0661
+
+Episode 480, Reward: 290.0, MovingAvg(100): 503.10, avgMovingReward: 411.8, Epsilon: 0.0922, Actor_Loss: 43.2019, Critic_Loss: 2093.5556, Entropy: 2.0669
+
+Episode 481, Reward: 210.0, MovingAvg(100): 499.90, avgMovingReward: 391.6, Epsilon: 0.0918, Actor_Loss: -3.9520, Critic_Loss: 746.1622, Entropy: 2.0722
+
+Episode 482, Reward: 580.0, MovingAvg(100): 503.00, avgMovingReward: 410.5, Epsilon: 0.0913, Actor_Loss: -40.2654, Critic_Loss: 3354.6538, Entropy: 2.0673
+
+Episode 483, Reward: 660.0, MovingAvg(100): 505.50, avgMovingReward: 435.4, Epsilon: 0.0908, Actor_Loss: -30.6711, Critic_Loss: 1669.5390, Entropy: 2.0568
+
+Episode 484, Reward: 540.0, MovingAvg(100): 504.40, avgMovingReward: 445.9, Epsilon: 0.0904, Actor_Loss: 43.3066, Critic_Loss: 1748.1944, Entropy: 2.0526
+
+Episode 485, Reward: 520.0, MovingAvg(100): 503.00, avgMovingReward: 453.3, Epsilon: 0.0899, Actor_Loss: -37.8793, Critic_Loss: 6079.7148, Entropy: 2.0695
+
+Episode 486, Reward: 790.0, MovingAvg(100): 505.90, avgMovingReward: 487.0, Epsilon: 0.0895, Actor_Loss: 13.7060, Critic_Loss: 342.7369, Entropy: 2.0576
+
+Episode 487, Reward: 280.0, MovingAvg(100): 502.90, avgMovingReward: 466.3, Epsilon: 0.0890, Actor_Loss: -23.7696, Critic_Loss: 1183.1852, Entropy: 2.0667
+
+Episode 488, Reward: 770.0, MovingAvg(100): 501.20, avgMovingReward: 496.6, Epsilon: 0.0886, Actor_Loss: 12.5890, Critic_Loss: 578.3609, Entropy: 2.0660
+
+Episode 489, Reward: 360.0, MovingAvg(100): 502.50, avgMovingReward: 483.0, Epsilon: 0.0882, Actor_Loss: 0.8914, Critic_Loss: 379.1042, Entropy: 2.0646
+
+Episode 490, Reward: 600.0, MovingAvg(100): 506.50, avgMovingReward: 494.7, Epsilon: 0.0877, Actor_Loss: 6.1918, Critic_Loss: 1078.7554, Entropy: 2.0657
+
+Episode 491, Reward: 620.0, MovingAvg(100): 506.40, avgMovingReward: 507.2, Epsilon: 0.0873, Actor_Loss: 37.7534, Critic_Loss: 2185.6976, Entropy: 2.0567
+
+Episode 492, Reward: 570.0, MovingAvg(100): 508.50, avgMovingReward: 513.5, Epsilon: 0.0868, Actor_Loss: 22.2185, Critic_Loss: 1233.4386, Entropy: 2.0553
+
+Episode 493, Reward: 350.0, MovingAvg(100): 508.80, avgMovingReward: 497.1, Epsilon: 0.0864, Actor_Loss: 24.1884, Critic_Loss: 1751.8559, Entropy: 2.0531
+
+Episode 494, Reward: 600.0, MovingAvg(100): 504.60, avgMovingReward: 507.4, Epsilon: 0.0860, Actor_Loss: -51.1209, Critic_Loss: 8168.8980, Entropy: 2.0622
+
+Episode 495, Reward: 600.0, MovingAvg(100): 496.10, avgMovingReward: 516.7, Epsilon: 0.0855, Actor_Loss: -25.2290, Critic_Loss: 1059.5262, Entropy: 2.0618
+
+Episode 496, Reward: 620.0, MovingAvg(100): 496.00, avgMovingReward: 527.0, Epsilon: 0.0851, Actor_Loss: 47.0229, Critic_Loss: 3070.8427, Entropy: 2.0488
+
+Episode 497, Reward: 1270.0, MovingAvg(100): 505.40, avgMovingReward: 601.3, Epsilon: 0.0847, Actor_Loss: -350.7188, Critic_Loss: 153609.3844, Entropy: 2.0562
+
+Episode 498, Reward: 560.0, MovingAvg(100): 504.50, avgMovingReward: 597.2, Epsilon: 0.0843, Actor_Loss: 12.5027, Critic_Loss: 342.4226, Entropy: 2.0605
+
+Episode 499, Reward: 370.0, MovingAvg(100): 504.90, avgMovingReward: 574.5, Epsilon: 0.0838, Actor_Loss: 11.8537, Critic_Loss: 635.0671, Entropy: 2.0757
+
+Episode 500, Reward: 580.0, MovingAvg(100): 498.90, avgMovingReward: 575.0, Epsilon: 0.0834, Actor_Loss: -33.6943, Critic_Loss: 1757.7899, Entropy: 2.0781
+
+Episode 501, Reward: 520.0, MovingAvg(100): 501.40, avgMovingReward: 569.5, Epsilon: 0.0830, Actor_Loss: 0.2428, Critic_Loss: 1297.5361, Entropy: 2.0555
+
+Episode 502, Reward: 1170.0, MovingAvg(100): 508.70, avgMovingReward: 629.6, Epsilon: 0.0826, Actor_Loss: -40.2110, Critic_Loss: 17401.6979, Entropy: 2.0540
+
+Episode 503, Reward: 760.0, MovingAvg(100): 509.20, avgMovingReward: 642.6, Epsilon: 0.0822, Actor_Loss: -127.4563, Critic_Loss: 23766.9002, Entropy: 2.0477
+
+Episode 504, Reward: 420.0, MovingAvg(100): 510.30, avgMovingReward: 620.3, Epsilon: 0.0818, Actor_Loss: 0.0531, Critic_Loss: 267.9118, Entropy: 2.0466
+
+Episode 505, Reward: 510.0, MovingAvg(100): 513.10, avgMovingReward: 609.3, Epsilon: 0.0814, Actor_Loss: -20.0275, Critic_Loss: 830.3260, Entropy: 2.0463
+
+Episode 506, Reward: 290.0, MovingAvg(100): 513.40, avgMovingReward: 577.4, Epsilon: 0.0810, Actor_Loss: 20.7013, Critic_Loss: 671.7278, Entropy: 2.0417
+
+Episode 507, Reward: 600.0, MovingAvg(100): 516.60, avgMovingReward: 579.6, Epsilon: 0.0805, Actor_Loss: 14.6932, Critic_Loss: 1015.4882, Entropy: 2.0421
+
+Episode 508, Reward: 430.0, MovingAvg(100): 514.20, avgMovingReward: 564.7, Epsilon: 0.0801, Actor_Loss: 29.2403, Critic_Loss: 1766.5055, Entropy: 2.0557
+
+Episode 509, Reward: 680.0, MovingAvg(100): 518.90, avgMovingReward: 576.2, Epsilon: 0.0797, Actor_Loss: -80.9843, Critic_Loss: 8881.5222, Entropy: 2.0692
+
+Episode 510, Reward: 500.0, MovingAvg(100): 519.70, avgMovingReward: 568.6, Epsilon: 0.0793, Actor_Loss: 58.7112, Critic_Loss: 3694.5447, Entropy: 2.0559
+
+Episode 511, Reward: 890.0, MovingAvg(100): 525.30, avgMovingReward: 600.7, Epsilon: 0.0790, Actor_Loss: -206.1445, Critic_Loss: 77997.3664, Entropy: 2.0675
+
+Episode 512, Reward: 680.0, MovingAvg(100): 529.70, avgMovingReward: 608.7, Epsilon: 0.0786, Actor_Loss: -128.8983, Critic_Loss: 24964.0008, Entropy: 2.0639
+
+Episode 513, Reward: 280.0, MovingAvg(100): 527.50, avgMovingReward: 575.8, Epsilon: 0.0782, Actor_Loss: -28.1458, Critic_Loss: 831.6818, Entropy: 2.0582
+
+Episode 514, Reward: 430.0, MovingAvg(100): 529.70, avgMovingReward: 561.2, Epsilon: 0.0778, Actor_Loss: 33.1302, Critic_Loss: 1220.9944, Entropy: 2.0463
+
+Episode 515, Reward: 420.0, MovingAvg(100): 528.50, avgMovingReward: 547.1, Epsilon: 0.0774, Actor_Loss: 35.5808, Critic_Loss: 1536.6817, Entropy: 2.0543
+
+Episode 516, Reward: 910.0, MovingAvg(100): 535.30, avgMovingReward: 583.4, Epsilon: 0.0770, Actor_Loss: -167.4833, Critic_Loss: 33589.9344, Entropy: 2.0566
+
+Episode 517, Reward: 360.0, MovingAvg(100): 535.80, avgMovingReward: 561.0, Epsilon: 0.0766, Actor_Loss: 49.5717, Critic_Loss: 2870.2989, Entropy: 2.0384
+
+Episode 518, Reward: 850.0, MovingAvg(100): 541.70, avgMovingReward: 589.9, Epsilon: 0.0762, Actor_Loss: -130.5940, Critic_Loss: 19552.8221, Entropy: 2.0503
+
+Episode 519, Reward: 240.0, MovingAvg(100): 541.80, avgMovingReward: 554.9, Epsilon: 0.0758, Actor_Loss: 34.0957, Critic_Loss: 1789.9092, Entropy: 2.0401
+
+Episode 520, Reward: 370.0, MovingAvg(100): 541.00, avgMovingReward: 536.5, Epsilon: 0.0755, Actor_Loss: 2.6733, Critic_Loss: 265.2653, Entropy: 2.0394
+
+Episode 521, Reward: 950.0, MovingAvg(100): 547.40, avgMovingReward: 577.8, Epsilon: 0.0751, Actor_Loss: -205.6122, Critic_Loss: 80383.8547, Entropy: 2.0460
+
+Episode 522, Reward: 270.0, MovingAvg(100): 546.60, avgMovingReward: 547.0, Epsilon: 0.0747, Actor_Loss: 6.4796, Critic_Loss: 579.3153, Entropy: 2.0410
+
+Episode 523, Reward: 470.0, MovingAvg(100): 548.30, avgMovingReward: 539.3, Epsilon: 0.0743, Actor_Loss: 8.5403, Critic_Loss: 603.4320, Entropy: 2.0425
+
+Episode 524, Reward: 250.0, MovingAvg(100): 548.10, avgMovingReward: 510.4, Epsilon: 0.0740, Actor_Loss: 6.8326, Critic_Loss: 914.9709, Entropy: 2.0462
+
+Episode 525, Reward: 550.0, MovingAvg(100): 551.40, avgMovingReward: 514.4, Epsilon: 0.0736, Actor_Loss: 25.2389, Critic_Loss: 1868.6320, Entropy: 2.0528
+
+Episode 526, Reward: 390.0, MovingAvg(100): 551.00, avgMovingReward: 501.9, Epsilon: 0.0732, Actor_Loss: 37.3733, Critic_Loss: 2348.3099, Entropy: 2.0523
+
+Episode 527, Reward: 710.0, MovingAvg(100): 554.40, avgMovingReward: 522.7, Epsilon: 0.0729, Actor_Loss: 22.1820, Critic_Loss: 1922.0259, Entropy: 2.0499
+
+Episode 528, Reward: 830.0, MovingAvg(100): 558.30, avgMovingReward: 553.5, Epsilon: 0.0725, Actor_Loss: 21.4843, Critic_Loss: 1528.3625, Entropy: 2.0524
+
+Episode 529, Reward: 320.0, MovingAvg(100): 555.50, avgMovingReward: 530.1, Epsilon: 0.0721, Actor_Loss: 34.1735, Critic_Loss: 1403.3275, Entropy: 2.0615
+
+Episode 530, Reward: 920.0, MovingAvg(100): 561.50, avgMovingReward: 569.1, Epsilon: 0.0718, Actor_Loss: 12.9651, Critic_Loss: 5272.4081, Entropy: 2.0623
+
+Episode 531, Reward: 240.0, MovingAvg(100): 559.30, avgMovingReward: 536.2, Epsilon: 0.0714, Actor_Loss: -3.2880, Critic_Loss: 428.4699, Entropy: 2.0615
+
+Episode 532, Reward: 640.0, MovingAvg(100): 563.30, avgMovingReward: 546.6, Epsilon: 0.0711, Actor_Loss: 35.0359, Critic_Loss: 1836.5913, Entropy: 2.0553
+
+Episode 533, Reward: 370.0, MovingAvg(100): 549.10, avgMovingReward: 528.9, Epsilon: 0.0707, Actor_Loss: -32.5093, Critic_Loss: 2016.6267, Entropy: 2.0641
+
+Episode 534, Reward: 290.0, MovingAvg(100): 545.80, avgMovingReward: 505.0, Epsilon: 0.0704, Actor_Loss: 34.1839, Critic_Loss: 1425.7866, Entropy: 2.0623
+
+Episode 535, Reward: 630.0, MovingAvg(100): 546.10, avgMovingReward: 517.5, Epsilon: 0.0700, Actor_Loss: -35.0253, Critic_Loss: 3042.6143, Entropy: 2.0665
+
+Episode 536, Reward: 200.0, MovingAvg(100): 541.80, avgMovingReward: 485.8, Epsilon: 0.0697, Actor_Loss: 2.3170, Critic_Loss: 604.4510, Entropy: 2.0583
+
+Episode 537, Reward: 420.0, MovingAvg(100): 540.70, avgMovingReward: 479.2, Epsilon: 0.0693, Actor_Loss: -20.0599, Critic_Loss: 714.7740, Entropy: 2.0620
+
+Episode 538, Reward: 500.0, MovingAvg(100): 538.90, avgMovingReward: 481.3, Epsilon: 0.0690, Actor_Loss: 62.2467, Critic_Loss: 5521.0118, Entropy: 2.0474
+
+Episode 539, Reward: 870.0, MovingAvg(100): 538.40, avgMovingReward: 520.1, Epsilon: 0.0686, Actor_Loss: 30.0111, Critic_Loss: 1261.2064, Entropy: 2.0461
+
+Episode 540, Reward: 290.0, MovingAvg(100): 537.70, avgMovingReward: 497.1, Epsilon: 0.0683, Actor_Loss: 44.1250, Critic_Loss: 2061.9719, Entropy: 2.0426
+
+Episode 541, Reward: 340.0, MovingAvg(100): 536.40, avgMovingReward: 481.4, Epsilon: 0.0679, Actor_Loss: -21.7757, Critic_Loss: 1279.6785, Entropy: 2.0598
+
+Episode 542, Reward: 1210.0, MovingAvg(100): 545.60, avgMovingReward: 554.3, Epsilon: 0.0676, Actor_Loss: -39.1083, Critic_Loss: 2172.6945, Entropy: 2.0540
+
+Episode 543, Reward: 260.0, MovingAvg(100): 544.40, avgMovingReward: 524.8, Epsilon: 0.0672, Actor_Loss: -5.2950, Critic_Loss: 262.1317, Entropy: 2.0407
+
+Episode 544, Reward: 750.0, MovingAvg(100): 548.90, avgMovingReward: 547.4, Epsilon: 0.0669, Actor_Loss: 20.4240, Critic_Loss: 708.1061, Entropy: 2.0355
+
+Episode 545, Reward: 390.0, MovingAvg(100): 542.50, avgMovingReward: 531.6, Epsilon: 0.0666, Actor_Loss: 31.0439, Critic_Loss: 1310.6317, Entropy: 2.0445
+
+Episode 546, Reward: 680.0, MovingAvg(100): 546.00, avgMovingReward: 546.5, Epsilon: 0.0662, Actor_Loss: -5.9620, Critic_Loss: 1335.2257, Entropy: 2.0528
+
+Episode 547, Reward: 780.0, MovingAvg(100): 548.10, avgMovingReward: 569.8, Epsilon: 0.0659, Actor_Loss: 19.9523, Critic_Loss: 893.3929, Entropy: 2.0431
+
+Episode 548, Reward: 830.0, MovingAvg(100): 551.90, avgMovingReward: 595.8, Epsilon: 0.0656, Actor_Loss: 60.4912, Critic_Loss: 5735.1051, Entropy: 2.0403
+
+Episode 549, Reward: 930.0, MovingAvg(100): 558.40, avgMovingReward: 629.3, Epsilon: 0.0653, Actor_Loss: -12.7407, Critic_Loss: 1131.3604, Entropy: 2.0484
+
+Episode 550, Reward: 570.0, MovingAvg(100): 558.40, avgMovingReward: 623.3, Epsilon: 0.0649, Actor_Loss: 5.0623, Critic_Loss: 553.3620, Entropy: 2.0523
+
+Episode 551, Reward: 420.0, MovingAvg(100): 560.40, avgMovingReward: 603.0, Epsilon: 0.0646, Actor_Loss: -26.0077, Critic_Loss: 1407.6851, Entropy: 2.0528
+
+Episode 552, Reward: 920.0, MovingAvg(100): 564.90, avgMovingReward: 634.7, Epsilon: 0.0643, Actor_Loss: -94.4970, Critic_Loss: 11960.2654, Entropy: 2.0446
+
+Episode 553, Reward: 340.0, MovingAvg(100): 565.60, avgMovingReward: 605.2, Epsilon: 0.0640, Actor_Loss: 33.9950, Critic_Loss: 1350.6005, Entropy: 2.0456
+
+Episode 554, Reward: 230.0, MovingAvg(100): 533.60, avgMovingReward: 567.7, Epsilon: 0.0636, Actor_Loss: 6.3128, Critic_Loss: 692.1597, Entropy: 2.0526
+
+Episode 555, Reward: 710.0, MovingAvg(100): 530.50, avgMovingReward: 581.9, Epsilon: 0.0633, Actor_Loss: -46.3912, Critic_Loss: 7311.7816, Entropy: 2.0599
+
+Episode 556, Reward: 420.0, MovingAvg(100): 531.90, avgMovingReward: 565.7, Epsilon: 0.0630, Actor_Loss: 16.5900, Critic_Loss: 1337.8954, Entropy: 2.0533
+
+Episode 557, Reward: 490.0, MovingAvg(100): 532.80, avgMovingReward: 558.2, Epsilon: 0.0627, Actor_Loss: 46.0898, Critic_Loss: 2905.9224, Entropy: 2.0590
+
+Episode 558, Reward: 160.0, MovingAvg(100): 532.20, avgMovingReward: 518.3, Epsilon: 0.0624, Actor_Loss: 25.9543, Critic_Loss: 964.1936, Entropy: 2.0591
+
+Episode 559, Reward: 1390.0, MovingAvg(100): 536.00, avgMovingReward: 605.5, Epsilon: 0.0621, Actor_Loss: -319.4335, Critic_Loss: 147584.7469, Entropy: 2.0767
+
+Episode 560, Reward: 850.0, MovingAvg(100): 539.30, avgMovingReward: 630.0, Epsilon: 0.0618, Actor_Loss: -142.0092, Critic_Loss: 27660.9992, Entropy: 2.0586
+
+Episode 561, Reward: 950.0, MovingAvg(100): 538.60, avgMovingReward: 662.0, Epsilon: 0.0614, Actor_Loss: 67.0605, Critic_Loss: 5533.5719, Entropy: 1.8775
+
+Episode 562, Reward: 1050.0, MovingAvg(100): 542.80, avgMovingReward: 700.8, Epsilon: 0.0611, Actor_Loss: 65.8220, Critic_Loss: 10797.4440, Entropy: 1.9070
+
+Episode 563, Reward: 1030.0, MovingAvg(100): 546.60, avgMovingReward: 733.7, Epsilon: 0.0608, Actor_Loss: 41.0926, Critic_Loss: 8267.1935, Entropy: 2.0064
+
+Episode 564, Reward: 520.0, MovingAvg(100): 546.30, avgMovingReward: 712.3, Epsilon: 0.0605, Actor_Loss: 24.5498, Critic_Loss: 1975.0646, Entropy: 2.0099
+
+Episode 565, Reward: 1700.0, MovingAvg(100): 560.60, avgMovingReward: 811.1, Epsilon: 0.0602, Actor_Loss: -38.8018, Critic_Loss: 10900.5596, Entropy: 1.9887
+
+Episode 566, Reward: 400.0, MovingAvg(100): 561.00, avgMovingReward: 770.0, Epsilon: 0.0599, Actor_Loss: 43.3235, Critic_Loss: 3158.1228, Entropy: 1.9887
+
+Episode 567, Reward: 480.0, MovingAvg(100): 564.00, avgMovingReward: 741.0, Epsilon: 0.0596, Actor_Loss: 55.7108, Critic_Loss: 3748.8775, Entropy: 2.0167
+
+Episode 568, Reward: 470.0, MovingAvg(100): 565.20, avgMovingReward: 713.9, Epsilon: 0.0593, Actor_Loss: 49.8692, Critic_Loss: 3009.8707, Entropy: 2.0208
+
+Episode 569, Reward: 450.0, MovingAvg(100): 566.40, avgMovingReward: 687.5, Epsilon: 0.0590, Actor_Loss: 19.2043, Critic_Loss: 1939.2093, Entropy: 2.0208
+
+Episode 570, Reward: 380.0, MovingAvg(100): 567.20, avgMovingReward: 656.7, Epsilon: 0.0587, Actor_Loss: 41.2448, Critic_Loss: 2451.6589, Entropy: 2.0265
+
+Episode 571, Reward: 580.0, MovingAvg(100): 564.70, avgMovingReward: 649.1, Epsilon: 0.0584, Actor_Loss: -3.5240, Critic_Loss: 386.3351, Entropy: 2.0360
+
+Episode 572, Reward: 680.0, MovingAvg(100): 568.80, avgMovingReward: 652.2, Epsilon: 0.0582, Actor_Loss: 73.0992, Critic_Loss: 6627.9832, Entropy: 2.0275
+
+Episode 573, Reward: 990.0, MovingAvg(100): 577.20, avgMovingReward: 685.9, Epsilon: 0.0579, Actor_Loss: 40.0563, Critic_Loss: 2419.4431, Entropy: 2.0279
+
+Episode 574, Reward: 380.0, MovingAvg(100): 576.40, avgMovingReward: 655.4, Epsilon: 0.0576, Actor_Loss: 43.5867, Critic_Loss: 2279.2616, Entropy: 2.0409
+
+Episode 575, Reward: 250.0, MovingAvg(100): 576.30, avgMovingReward: 614.8, Epsilon: 0.0573, Actor_Loss: 2.0229, Critic_Loss: 440.5544, Entropy: 2.0508
+
+Episode 576, Reward: 530.0, MovingAvg(100): 577.60, avgMovingReward: 606.3, Epsilon: 0.0570, Actor_Loss: -68.9214, Critic_Loss: 4885.4224, Entropy: 2.0543
+
+Episode 577, Reward: 680.0, MovingAvg(100): 581.30, avgMovingReward: 613.7, Epsilon: 0.0567, Actor_Loss: 61.2117, Critic_Loss: 4963.9304, Entropy: 2.0358
+
+Episode 578, Reward: 590.0, MovingAvg(100): 585.40, avgMovingReward: 611.3, Epsilon: 0.0564, Actor_Loss: 7.4077, Critic_Loss: 1961.0661, Entropy: 2.0368
+
+Episode 579, Reward: 880.0, MovingAvg(100): 588.20, avgMovingReward: 638.2, Epsilon: 0.0561, Actor_Loss: -73.7009, Critic_Loss: 7073.9569, Entropy: 2.0395
+
+Episode 580, Reward: 830.0, MovingAvg(100): 593.60, avgMovingReward: 657.4, Epsilon: 0.0559, Actor_Loss: -15.8164, Critic_Loss: 1198.6584, Entropy: 2.0291
+
+Episode 581, Reward: 820.0, MovingAvg(100): 599.70, avgMovingReward: 673.6, Epsilon: 0.0556, Actor_Loss: 69.5990, Critic_Loss: 6001.4149, Entropy: 2.0158
+
+Episode 582, Reward: 660.0, MovingAvg(100): 600.50, avgMovingReward: 672.3, Epsilon: 0.0553, Actor_Loss: -47.4286, Critic_Loss: 5371.9008, Entropy: 2.0386
+
+Episode 583, Reward: 200.0, MovingAvg(100): 595.90, avgMovingReward: 625.0, Epsilon: 0.0550, Actor_Loss: 31.3112, Critic_Loss: 2128.1997, Entropy: 2.0343
+
+Episode 584, Reward: 590.0, MovingAvg(100): 596.40, avgMovingReward: 621.5, Epsilon: 0.0548, Actor_Loss: 13.0969, Critic_Loss: 9864.1096, Entropy: 2.0459
+
+Episode 585, Reward: 840.0, MovingAvg(100): 599.60, avgMovingReward: 643.4, Epsilon: 0.0545, Actor_Loss: -1.0160, Critic_Loss: 374.9775, Entropy: 2.0500
+
+Episode 586, Reward: 1010.0, MovingAvg(100): 601.80, avgMovingReward: 680.1, Epsilon: 0.0542, Actor_Loss: 6.5939, Critic_Loss: 1206.4460, Entropy: 2.0550
+
+Episode 587, Reward: 590.0, MovingAvg(100): 604.90, avgMovingReward: 671.0, Epsilon: 0.0539, Actor_Loss: 42.6599, Critic_Loss: 2138.7083, Entropy: 2.0544
+
+Episode 588, Reward: 550.0, MovingAvg(100): 602.70, avgMovingReward: 658.9, Epsilon: 0.0537, Actor_Loss: 18.3535, Critic_Loss: 1037.0068, Entropy: 2.0563
+
+Episode 589, Reward: 290.0, MovingAvg(100): 602.00, avgMovingReward: 622.0, Epsilon: 0.0534, Actor_Loss: 40.4100, Critic_Loss: 2585.3515, Entropy: 2.0543
+
+Episode 590, Reward: 360.0, MovingAvg(100): 599.60, avgMovingReward: 595.8, Epsilon: 0.0531, Actor_Loss: 34.9430, Critic_Loss: 1813.9554, Entropy: 2.0541
+
+Episode 591, Reward: 510.0, MovingAvg(100): 598.50, avgMovingReward: 587.3, Epsilon: 0.0529, Actor_Loss: -14.6556, Critic_Loss: 1331.6182, Entropy: 2.0597
+
+Episode 592, Reward: 510.0, MovingAvg(100): 597.90, avgMovingReward: 579.5, Epsilon: 0.0526, Actor_Loss: 0.7570, Critic_Loss: 1176.1724, Entropy: 2.0525
+
+Episode 593, Reward: 300.0, MovingAvg(100): 597.40, avgMovingReward: 551.6, Epsilon: 0.0523, Actor_Loss: 55.6710, Critic_Loss: 4196.7643, Entropy: 2.0438
+
+Episode 594, Reward: 460.0, MovingAvg(100): 596.00, avgMovingReward: 542.4, Epsilon: 0.0521, Actor_Loss: 8.3222, Critic_Loss: 650.7213, Entropy: 2.0436
+
+Episode 595, Reward: 560.0, MovingAvg(100): 595.60, avgMovingReward: 544.2, Epsilon: 0.0518, Actor_Loss: -68.3288, Critic_Loss: 7802.7767, Entropy: 2.0450
+
+Episode 596, Reward: 450.0, MovingAvg(100): 593.90, avgMovingReward: 534.8, Epsilon: 0.0516, Actor_Loss: 2.7657, Critic_Loss: 628.4822, Entropy: 2.0404
+
+Episode 597, Reward: 320.0, MovingAvg(100): 584.40, avgMovingReward: 513.3, Epsilon: 0.0513, Actor_Loss: -6.2197, Critic_Loss: 547.8692, Entropy: 2.0393
+
+Episode 598, Reward: 380.0, MovingAvg(100): 582.60, avgMovingReward: 500.0, Epsilon: 0.0510, Actor_Loss: 27.6094, Critic_Loss: 1291.7048, Entropy: 2.0358
+
+Episode 599, Reward: 490.0, MovingAvg(100): 583.80, avgMovingReward: 499.0, Epsilon: 0.0508, Actor_Loss: -5.2981, Critic_Loss: 297.5898, Entropy: 2.0334
+Checkpoint saved at episode 600 (2025-04-30 23:04:13)

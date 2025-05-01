@@ -1,0 +1,402 @@
+
+Episode 1800, Reward: 370.0, MovingAvg(100): 707.50, avgMovingReward: 780.4, Epsilon: 0.0500, Actor_Loss: 64.2525, Critic_Loss: 5725.9364, Entropy: 1.9665
+
+Episode 1801, Reward: 390.0, MovingAvg(100): 704.10, avgMovingReward: 741.3, Epsilon: 0.0500, Actor_Loss: -13.5268, Critic_Loss: 839.6076, Entropy: 1.9828
+
+Episode 1802, Reward: 250.0, MovingAvg(100): 699.80, avgMovingReward: 692.2, Epsilon: 0.0500, Actor_Loss: 42.4691, Critic_Loss: 2202.9098, Entropy: 1.9849
+
+Episode 1803, Reward: 1030.0, MovingAvg(100): 704.90, avgMovingReward: 726.0, Epsilon: 0.0500, Actor_Loss: -154.4087, Critic_Loss: 27392.1426, Entropy: 1.9928
+
+Episode 1804, Reward: 720.0, MovingAvg(100): 706.40, avgMovingReward: 725.4, Epsilon: 0.0500, Actor_Loss: 9.9870, Critic_Loss: 561.3941, Entropy: 1.9695
+
+Episode 1805, Reward: 1890.0, MovingAvg(100): 719.20, avgMovingReward: 841.8, Epsilon: 0.0500, Actor_Loss: -303.4612, Critic_Loss: 140000.0719, Entropy: 2.0141
+
+Episode 1806, Reward: 670.0, MovingAvg(100): 721.50, avgMovingReward: 824.7, Epsilon: 0.0500, Actor_Loss: -98.0237, Critic_Loss: 18124.1494, Entropy: 2.0212
+
+Episode 1807, Reward: 360.0, MovingAvg(100): 721.10, avgMovingReward: 778.2, Epsilon: 0.0500, Actor_Loss: -22.1790, Critic_Loss: 1704.6404, Entropy: 2.0182
+
+Episode 1808, Reward: 560.0, MovingAvg(100): 720.70, avgMovingReward: 756.4, Epsilon: 0.0500, Actor_Loss: 62.5366, Critic_Loss: 4987.0139, Entropy: 1.9925
+
+Episode 1809, Reward: 480.0, MovingAvg(100): 710.10, avgMovingReward: 728.7, Epsilon: 0.0500, Actor_Loss: 49.7038, Critic_Loss: 5822.0793, Entropy: 1.9899
+
+Episode 1810, Reward: 700.0, MovingAvg(100): 705.70, avgMovingReward: 725.9, Epsilon: 0.0500, Actor_Loss: -11.2964, Critic_Loss: 1331.1741, Entropy: 1.9945
+
+Episode 1811, Reward: 490.0, MovingAvg(100): 689.40, avgMovingReward: 702.3, Epsilon: 0.0500, Actor_Loss: 37.8198, Critic_Loss: 1948.9384, Entropy: 1.9803
+
+Episode 1812, Reward: 590.0, MovingAvg(100): 687.00, avgMovingReward: 691.0, Epsilon: 0.0500, Actor_Loss: -0.2270, Critic_Loss: 2793.0031, Entropy: 1.9956
+
+Episode 1813, Reward: 440.0, MovingAvg(100): 680.70, avgMovingReward: 665.9, Epsilon: 0.0500, Actor_Loss: 18.2364, Critic_Loss: 1382.8913, Entropy: 2.0014
+
+Episode 1814, Reward: 730.0, MovingAvg(100): 684.70, avgMovingReward: 672.3, Epsilon: 0.0500, Actor_Loss: -115.3277, Critic_Loss: 17654.4412, Entropy: 2.0168
+
+Episode 1815, Reward: 570.0, MovingAvg(100): 684.90, avgMovingReward: 662.1, Epsilon: 0.0500, Actor_Loss: 36.9365, Critic_Loss: 1650.9376, Entropy: 2.0030
+
+Episode 1816, Reward: 610.0, MovingAvg(100): 679.30, avgMovingReward: 656.9, Epsilon: 0.0500, Actor_Loss: 18.6947, Critic_Loss: 828.7264, Entropy: 2.0311
+
+Episode 1817, Reward: 500.0, MovingAvg(100): 676.80, avgMovingReward: 641.2, Epsilon: 0.0500, Actor_Loss: 27.6047, Critic_Loss: 952.4125, Entropy: 2.0547
+
+Episode 1818, Reward: 1740.0, MovingAvg(100): 688.60, avgMovingReward: 751.1, Epsilon: 0.0500, Actor_Loss: -220.7992, Critic_Loss: 198165.9781, Entropy: 2.0579
+
+Episode 1819, Reward: 390.0, MovingAvg(100): 678.10, avgMovingReward: 715.0, Epsilon: 0.0500, Actor_Loss: 18.9921, Critic_Loss: 818.9683, Entropy: 2.0445
+
+Episode 1820, Reward: 420.0, MovingAvg(100): 677.30, avgMovingReward: 685.5, Epsilon: 0.0500, Actor_Loss: -14.9855, Critic_Loss: 875.3974, Entropy: 2.0566
+
+Episode 1821, Reward: 320.0, MovingAvg(100): 675.40, avgMovingReward: 648.9, Epsilon: 0.0500, Actor_Loss: 74.5595, Critic_Loss: 7192.2020, Entropy: 2.0309
+
+Episode 1822, Reward: 2060.0, MovingAvg(100): 688.70, avgMovingReward: 790.0, Epsilon: 0.0500, Actor_Loss: -352.5513, Critic_Loss: 269796.7500, Entropy: 2.0321
+
+Episode 1823, Reward: 460.0, MovingAvg(100): 689.50, avgMovingReward: 757.0, Epsilon: 0.0500, Actor_Loss: 11.3236, Critic_Loss: 1807.6721, Entropy: 2.0158
+
+Episode 1824, Reward: 360.0, MovingAvg(100): 687.60, avgMovingReward: 717.3, Epsilon: 0.0500, Actor_Loss: 20.7395, Critic_Loss: 585.0958, Entropy: 2.0281
+
+Episode 1825, Reward: 770.0, MovingAvg(100): 689.50, avgMovingReward: 722.6, Epsilon: 0.0500, Actor_Loss: 15.2533, Critic_Loss: 402.6070, Entropy: 2.0474
+
+Episode 1826, Reward: 810.0, MovingAvg(100): 694.60, avgMovingReward: 731.3, Epsilon: 0.0500, Actor_Loss: 36.9214, Critic_Loss: 1800.6330, Entropy: 2.0570
+
+Episode 1827, Reward: 590.0, MovingAvg(100): 695.50, avgMovingReward: 717.2, Epsilon: 0.0500, Actor_Loss: -22.6234, Critic_Loss: 2765.7218, Entropy: 2.0858
+
+Episode 1828, Reward: 590.0, MovingAvg(100): 693.70, avgMovingReward: 704.5, Epsilon: 0.0500, Actor_Loss: -59.4896, Critic_Loss: 7098.7516, Entropy: 2.0921
+
+Episode 1829, Reward: 450.0, MovingAvg(100): 694.10, avgMovingReward: 679.0, Epsilon: 0.0500, Actor_Loss: -35.7673, Critic_Loss: 1765.4522, Entropy: 2.0937
+
+Episode 1830, Reward: 360.0, MovingAvg(100): 691.90, avgMovingReward: 647.1, Epsilon: 0.0500, Actor_Loss: 23.4120, Critic_Loss: 1125.6581, Entropy: 2.0811
+
+Episode 1831, Reward: 390.0, MovingAvg(100): 691.90, avgMovingReward: 621.4, Epsilon: 0.0500, Actor_Loss: 9.8716, Critic_Loss: 362.0788, Entropy: 2.0775
+
+Episode 1832, Reward: 310.0, MovingAvg(100): 687.60, avgMovingReward: 590.3, Epsilon: 0.0500, Actor_Loss: 45.6843, Critic_Loss: 2446.3047, Entropy: 2.0783
+
+Episode 1833, Reward: 810.0, MovingAvg(100): 692.50, avgMovingReward: 612.3, Epsilon: 0.0500, Actor_Loss: -31.3374, Critic_Loss: 1972.9363, Entropy: 2.0685
+
+Episode 1834, Reward: 460.0, MovingAvg(100): 689.70, avgMovingReward: 597.0, Epsilon: 0.0500, Actor_Loss: 22.4849, Critic_Loss: 1782.2898, Entropy: 2.0389
+
+Episode 1835, Reward: 620.0, MovingAvg(100): 691.20, avgMovingReward: 599.3, Epsilon: 0.0500, Actor_Loss: 56.9000, Critic_Loss: 4065.0412, Entropy: 2.0336
+
+Episode 1836, Reward: 600.0, MovingAvg(100): 693.80, avgMovingReward: 599.4, Epsilon: 0.0500, Actor_Loss: -34.1482, Critic_Loss: 1957.4411, Entropy: 2.0342
+
+Episode 1837, Reward: 1530.0, MovingAvg(100): 701.50, avgMovingReward: 692.5, Epsilon: 0.0500, Actor_Loss: -29.5193, Critic_Loss: 15031.0497, Entropy: 2.0035
+
+Episode 1838, Reward: 380.0, MovingAvg(100): 702.30, avgMovingReward: 661.2, Epsilon: 0.0500, Actor_Loss: 29.3377, Critic_Loss: 1099.1575, Entropy: 1.9787
+
+Episode 1839, Reward: 770.0, MovingAvg(100): 705.80, avgMovingReward: 672.1, Epsilon: 0.0500, Actor_Loss: -7.8212, Critic_Loss: 3833.8373, Entropy: 1.9927
+
+Episode 1840, Reward: 630.0, MovingAvg(100): 703.30, avgMovingReward: 667.9, Epsilon: 0.0500, Actor_Loss: 24.3638, Critic_Loss: 877.3665, Entropy: 1.9847
+
+Episode 1841, Reward: 330.0, MovingAvg(100): 699.60, avgMovingReward: 634.1, Epsilon: 0.0500, Actor_Loss: 51.0018, Critic_Loss: 2530.8548, Entropy: 2.0167
+
+Episode 1842, Reward: 860.0, MovingAvg(100): 701.30, avgMovingReward: 656.7, Epsilon: 0.0500, Actor_Loss: -38.3286, Critic_Loss: 7748.7769, Entropy: 2.0389
+
+Episode 1843, Reward: 500.0, MovingAvg(100): 695.80, avgMovingReward: 641.0, Epsilon: 0.0500, Actor_Loss: 28.6589, Critic_Loss: 1281.0383, Entropy: 2.0125
+
+Episode 1844, Reward: 580.0, MovingAvg(100): 696.60, avgMovingReward: 634.9, Epsilon: 0.0500, Actor_Loss: -42.4183, Critic_Loss: 6005.0745, Entropy: 2.0254
+
+Episode 1845, Reward: 600.0, MovingAvg(100): 694.50, avgMovingReward: 631.4, Epsilon: 0.0500, Actor_Loss: 19.7203, Critic_Loss: 2705.2341, Entropy: 2.0175
+
+Episode 1846, Reward: 1190.0, MovingAvg(100): 697.40, avgMovingReward: 687.3, Epsilon: 0.0500, Actor_Loss: -311.8512, Critic_Loss: 119818.9352, Entropy: 2.0163
+
+Episode 1847, Reward: 1240.0, MovingAvg(100): 706.50, avgMovingReward: 742.6, Epsilon: 0.0500, Actor_Loss: 40.2151, Critic_Loss: 2381.8743, Entropy: 1.9953
+
+Episode 1848, Reward: 700.0, MovingAvg(100): 692.60, avgMovingReward: 738.3, Epsilon: 0.0500, Actor_Loss: -32.5620, Critic_Loss: 3079.7013, Entropy: 1.9972
+
+Episode 1849, Reward: 630.0, MovingAvg(100): 690.30, avgMovingReward: 727.5, Epsilon: 0.0500, Actor_Loss: 18.7045, Critic_Loss: 1130.6736, Entropy: 1.9698
+
+Episode 1850, Reward: 1810.0, MovingAvg(100): 700.60, avgMovingReward: 835.7, Epsilon: 0.0500, Actor_Loss: -42.4486, Critic_Loss: 72949.2125, Entropy: 1.9730
+
+Episode 1851, Reward: 440.0, MovingAvg(100): 699.30, avgMovingReward: 796.1, Epsilon: 0.0500, Actor_Loss: 33.2067, Critic_Loss: 3392.7662, Entropy: 1.9577
+
+Episode 1852, Reward: 270.0, MovingAvg(100): 696.40, avgMovingReward: 743.5, Epsilon: 0.0500, Actor_Loss: 60.1467, Critic_Loss: 3965.4273, Entropy: 1.9881
+
+Episode 1853, Reward: 340.0, MovingAvg(100): 691.70, avgMovingReward: 703.2, Epsilon: 0.0500, Actor_Loss: 12.3044, Critic_Loss: 1428.9496, Entropy: 2.0056
+
+Episode 1854, Reward: 770.0, MovingAvg(100): 696.80, avgMovingReward: 709.9, Epsilon: 0.0500, Actor_Loss: 44.2785, Critic_Loss: 2759.6972, Entropy: 2.0291
+
+Episode 1855, Reward: 570.0, MovingAvg(100): 694.90, avgMovingReward: 695.9, Epsilon: 0.0500, Actor_Loss: -15.0415, Critic_Loss: 3622.5046, Entropy: 2.0465
+
+Episode 1856, Reward: 390.0, MovingAvg(100): 694.70, avgMovingReward: 665.3, Epsilon: 0.0500, Actor_Loss: -69.6809, Critic_Loss: 5153.4962, Entropy: 2.0461
+
+Episode 1857, Reward: 460.0, MovingAvg(100): 685.60, avgMovingReward: 644.8, Epsilon: 0.0500, Actor_Loss: 81.8535, Critic_Loss: 7634.8430, Entropy: 2.0186
+
+Episode 1858, Reward: 1340.0, MovingAvg(100): 681.20, avgMovingReward: 714.3, Epsilon: 0.0500, Actor_Loss: -77.9346, Critic_Loss: 9222.4975, Entropy: 2.0482
+
+Episode 1859, Reward: 380.0, MovingAvg(100): 680.10, avgMovingReward: 680.9, Epsilon: 0.0500, Actor_Loss: 63.7782, Critic_Loss: 5009.7473, Entropy: 2.0399
+
+Episode 1860, Reward: 380.0, MovingAvg(100): 679.60, avgMovingReward: 650.8, Epsilon: 0.0500, Actor_Loss: 55.9774, Critic_Loss: 3755.6432, Entropy: 2.0343
+
+Episode 1861, Reward: 540.0, MovingAvg(100): 681.80, avgMovingReward: 639.7, Epsilon: 0.0500, Actor_Loss: 21.7683, Critic_Loss: 849.9656, Entropy: 2.0485
+
+Episode 1862, Reward: 330.0, MovingAvg(100): 679.20, avgMovingReward: 608.7, Epsilon: 0.0500, Actor_Loss: 38.6361, Critic_Loss: 2487.6519, Entropy: 2.0597
+
+Episode 1863, Reward: 670.0, MovingAvg(100): 676.00, avgMovingReward: 614.9, Epsilon: 0.0500, Actor_Loss: -54.2074, Critic_Loss: 6230.4961, Entropy: 2.0668
+
+Episode 1864, Reward: 1120.0, MovingAvg(100): 682.90, avgMovingReward: 665.4, Epsilon: 0.0500, Actor_Loss: -189.8273, Critic_Loss: 67322.1156, Entropy: 2.0463
+
+Episode 1865, Reward: 1230.0, MovingAvg(100): 690.40, avgMovingReward: 721.8, Epsilon: 0.0500, Actor_Loss: -145.6315, Critic_Loss: 23862.4350, Entropy: 2.0234
+
+Episode 1866, Reward: 680.0, MovingAvg(100): 693.30, avgMovingReward: 717.6, Epsilon: 0.0500, Actor_Loss: -10.9790, Critic_Loss: 719.7868, Entropy: 2.0341
+
+Episode 1867, Reward: 1280.0, MovingAvg(100): 693.80, avgMovingReward: 773.9, Epsilon: 0.0500, Actor_Loss: -191.3388, Critic_Loss: 46620.0020, Entropy: 2.0154
+
+Episode 1868, Reward: 440.0, MovingAvg(100): 694.40, avgMovingReward: 740.5, Epsilon: 0.0500, Actor_Loss: -32.5246, Critic_Loss: 1706.8103, Entropy: 2.0070
+
+Episode 1869, Reward: 870.0, MovingAvg(100): 697.40, avgMovingReward: 753.4, Epsilon: 0.0500, Actor_Loss: 67.8381, Critic_Loss: 5675.5977, Entropy: 1.9910
+
+Episode 1870, Reward: 850.0, MovingAvg(100): 700.30, avgMovingReward: 763.1, Epsilon: 0.0500, Actor_Loss: -24.7849, Critic_Loss: 1174.2011, Entropy: 2.0140
+
+Episode 1871, Reward: 340.0, MovingAvg(100): 690.10, avgMovingReward: 720.8, Epsilon: 0.0500, Actor_Loss: -6.9308, Critic_Loss: 464.3059, Entropy: 1.9997
+
+Episode 1872, Reward: 1040.0, MovingAvg(100): 694.90, avgMovingReward: 752.7, Epsilon: 0.0500, Actor_Loss: -14.1337, Critic_Loss: 595.6900, Entropy: 1.9662
+
+Episode 1873, Reward: 530.0, MovingAvg(100): 695.10, avgMovingReward: 730.4, Epsilon: 0.0500, Actor_Loss: 69.1498, Critic_Loss: 6590.5836, Entropy: 1.9476
+
+Episode 1874, Reward: 510.0, MovingAvg(100): 694.20, avgMovingReward: 708.4, Epsilon: 0.0500, Actor_Loss: 47.1675, Critic_Loss: 2776.3457, Entropy: 1.9657
+
+Episode 1875, Reward: 850.0, MovingAvg(100): 700.60, avgMovingReward: 722.6, Epsilon: 0.0500, Actor_Loss: 37.5824, Critic_Loss: 1834.0699, Entropy: 1.9678
+
+Episode 1876, Reward: 270.0, MovingAvg(100): 688.50, avgMovingReward: 677.3, Epsilon: 0.0500, Actor_Loss: 15.3883, Critic_Loss: 678.3557, Entropy: 1.9691
+
+Episode 1877, Reward: 730.0, MovingAvg(100): 692.10, avgMovingReward: 682.6, Epsilon: 0.0500, Actor_Loss: 76.3480, Critic_Loss: 7862.2912, Entropy: 1.9943
+
+Episode 1878, Reward: 520.0, MovingAvg(100): 689.30, avgMovingReward: 666.3, Epsilon: 0.0500, Actor_Loss: 82.6246, Critic_Loss: 8418.4519, Entropy: 2.0012
+
+Episode 1879, Reward: 240.0, MovingAvg(100): 684.90, avgMovingReward: 623.7, Epsilon: 0.0500, Actor_Loss: 53.6349, Critic_Loss: 2890.4820, Entropy: 2.0212
+
+Episode 1880, Reward: 570.0, MovingAvg(100): 685.00, avgMovingReward: 618.3, Epsilon: 0.0500, Actor_Loss: -58.8537, Critic_Loss: 6545.2491, Entropy: 2.0518
+
+Episode 1881, Reward: 400.0, MovingAvg(100): 686.20, avgMovingReward: 596.5, Epsilon: 0.0500, Actor_Loss: 47.4518, Critic_Loss: 3084.7408, Entropy: 2.0309
+
+Episode 1882, Reward: 1200.0, MovingAvg(100): 693.10, avgMovingReward: 656.8, Epsilon: 0.0500, Actor_Loss: -10.7717, Critic_Loss: 634.1451, Entropy: 2.0291
+
+Episode 1883, Reward: 700.0, MovingAvg(100): 692.80, avgMovingReward: 661.2, Epsilon: 0.0500, Actor_Loss: 67.7368, Critic_Loss: 5861.5603, Entropy: 2.0159
+
+Episode 1884, Reward: 520.0, MovingAvg(100): 694.90, avgMovingReward: 647.0, Epsilon: 0.0500, Actor_Loss: 15.1703, Critic_Loss: 743.6904, Entropy: 2.0172
+
+Episode 1885, Reward: 280.0, MovingAvg(100): 694.90, avgMovingReward: 610.3, Epsilon: 0.0500, Actor_Loss: 17.7649, Critic_Loss: 611.9972, Entropy: 2.0281
+
+Episode 1886, Reward: 620.0, MovingAvg(100): 697.30, avgMovingReward: 611.3, Epsilon: 0.0500, Actor_Loss: 28.4208, Critic_Loss: 2504.5110, Entropy: 2.0513
+
+Episode 1887, Reward: 300.0, MovingAvg(100): 692.80, avgMovingReward: 580.2, Epsilon: 0.0500, Actor_Loss: 50.6743, Critic_Loss: 2576.3438, Entropy: 2.0547
+
+Episode 1888, Reward: 220.0, MovingAvg(100): 689.30, avgMovingReward: 544.2, Epsilon: 0.0500, Actor_Loss: 23.5506, Critic_Loss: 773.1806, Entropy: 2.0685
+
+Episode 1889, Reward: 1270.0, MovingAvg(100): 692.60, avgMovingReward: 616.7, Epsilon: 0.0500, Actor_Loss: -6.2661, Critic_Loss: 422.0245, Entropy: 2.0797
+
+Episode 1890, Reward: 660.0, MovingAvg(100): 694.20, avgMovingReward: 621.1, Epsilon: 0.0500, Actor_Loss: 43.9879, Critic_Loss: 2378.4613, Entropy: 2.0606
+
+Episode 1891, Reward: 630.0, MovingAvg(100): 681.20, avgMovingReward: 622.0, Epsilon: 0.0500, Actor_Loss: -26.4966, Critic_Loss: 1706.8687, Entropy: 2.0571
+
+Episode 1892, Reward: 1100.0, MovingAvg(100): 685.10, avgMovingReward: 669.8, Epsilon: 0.0500, Actor_Loss: -21.7080, Critic_Loss: 3334.5833, Entropy: 2.0196
+
+Episode 1893, Reward: 560.0, MovingAvg(100): 684.00, avgMovingReward: 658.8, Epsilon: 0.0500, Actor_Loss: -11.1229, Critic_Loss: 448.1283, Entropy: 1.9971
+
+Episode 1894, Reward: 1690.0, MovingAvg(100): 690.20, avgMovingReward: 761.9, Epsilon: 0.0500, Actor_Loss: -88.2402, Critic_Loss: 126944.2594, Entropy: 1.9602
+
+Episode 1895, Reward: 940.0, MovingAvg(100): 697.10, avgMovingReward: 779.7, Epsilon: 0.0500, Actor_Loss: -60.5853, Critic_Loss: 4751.4121, Entropy: 1.9500
+
+Episode 1896, Reward: 540.0, MovingAvg(100): 692.10, avgMovingReward: 755.7, Epsilon: 0.0500, Actor_Loss: 64.4546, Critic_Loss: 4343.2901, Entropy: 1.9533
+
+Episode 1897, Reward: 530.0, MovingAvg(100): 694.50, avgMovingReward: 733.2, Epsilon: 0.0500, Actor_Loss: 61.1723, Critic_Loss: 4505.2303, Entropy: 1.9702
+
+Episode 1898, Reward: 610.0, MovingAvg(100): 690.00, avgMovingReward: 720.9, Epsilon: 0.0500, Actor_Loss: -38.4773, Critic_Loss: 9100.3909, Entropy: 1.9914
+
+Episode 1899, Reward: 480.0, MovingAvg(100): 678.10, avgMovingReward: 696.8, Epsilon: 0.0500, Actor_Loss: 60.8357, Critic_Loss: 6061.1373, Entropy: 1.9815
+
+Episode 1900, Reward: 1520.0, MovingAvg(100): 689.60, avgMovingReward: 779.1, Epsilon: 0.0500, Actor_Loss: 6.5033, Critic_Loss: 1914.2511, Entropy: 1.9702
+
+Episode 1901, Reward: 450.0, MovingAvg(100): 690.20, avgMovingReward: 746.2, Epsilon: 0.0500, Actor_Loss: 87.0095, Critic_Loss: 9365.2055, Entropy: 1.9671
+
+Episode 1902, Reward: 470.0, MovingAvg(100): 692.40, avgMovingReward: 718.6, Epsilon: 0.0500, Actor_Loss: -0.0155, Critic_Loss: 623.6384, Entropy: 1.9669
+
+Episode 1903, Reward: 1500.0, MovingAvg(100): 697.10, avgMovingReward: 796.7, Epsilon: 0.0500, Actor_Loss: -75.6416, Critic_Loss: 9060.8804, Entropy: 1.9988
+
+Episode 1904, Reward: 360.0, MovingAvg(100): 693.50, avgMovingReward: 753.0, Epsilon: 0.0500, Actor_Loss: 24.2681, Critic_Loss: 1409.0057, Entropy: 1.9834
+
+Episode 1905, Reward: 870.0, MovingAvg(100): 683.30, avgMovingReward: 764.7, Epsilon: 0.0500, Actor_Loss: -72.7819, Critic_Loss: 6903.1767, Entropy: 1.9868
+
+Episode 1906, Reward: 410.0, MovingAvg(100): 680.70, avgMovingReward: 729.3, Epsilon: 0.0500, Actor_Loss: 29.8009, Critic_Loss: 1293.1719, Entropy: 1.9692
+
+Episode 1907, Reward: 420.0, MovingAvg(100): 681.30, avgMovingReward: 698.3, Epsilon: 0.0500, Actor_Loss: -21.2007, Critic_Loss: 1451.5835, Entropy: 1.9706
+
+Episode 1908, Reward: 980.0, MovingAvg(100): 685.50, avgMovingReward: 726.5, Epsilon: 0.0500, Actor_Loss: 55.5049, Critic_Loss: 4380.7498, Entropy: 1.9579
+
+Episode 1909, Reward: 590.0, MovingAvg(100): 686.60, avgMovingReward: 712.9, Epsilon: 0.0500, Actor_Loss: 36.0026, Critic_Loss: 2589.1234, Entropy: 1.9574
+
+Episode 1910, Reward: 1330.0, MovingAvg(100): 692.90, avgMovingReward: 774.6, Epsilon: 0.0500, Actor_Loss: -52.9328, Critic_Loss: 17785.5090, Entropy: 1.9560
+
+Episode 1911, Reward: 190.0, MovingAvg(100): 689.90, avgMovingReward: 716.1, Epsilon: 0.0500, Actor_Loss: 78.4449, Critic_Loss: 7917.3067, Entropy: 1.9384
+
+Episode 1912, Reward: 260.0, MovingAvg(100): 686.60, avgMovingReward: 670.5, Epsilon: 0.0500, Actor_Loss: 57.2343, Critic_Loss: 3862.4028, Entropy: 1.9543
+
+Episode 1913, Reward: 630.0, MovingAvg(100): 688.50, avgMovingReward: 666.4, Epsilon: 0.0500, Actor_Loss: 96.9014, Critic_Loss: 10641.5579, Entropy: 1.9799
+
+Episode 1914, Reward: 540.0, MovingAvg(100): 686.60, avgMovingReward: 653.8, Epsilon: 0.0500, Actor_Loss: 42.6841, Critic_Loss: 2561.7628, Entropy: 1.9939
+
+Episode 1915, Reward: 400.0, MovingAvg(100): 684.90, avgMovingReward: 628.4, Epsilon: 0.0500, Actor_Loss: 50.0774, Critic_Loss: 2762.2712, Entropy: 2.0151
+
+Episode 1916, Reward: 550.0, MovingAvg(100): 684.30, avgMovingReward: 620.6, Epsilon: 0.0500, Actor_Loss: 79.7392, Critic_Loss: 7485.4283, Entropy: 2.0319
+
+Episode 1917, Reward: 860.0, MovingAvg(100): 687.90, avgMovingReward: 644.5, Epsilon: 0.0500, Actor_Loss: -65.9975, Critic_Loss: 13615.4887, Entropy: 2.0418
+
+Episode 1918, Reward: 450.0, MovingAvg(100): 675.00, avgMovingReward: 625.1, Epsilon: 0.0500, Actor_Loss: 69.7996, Critic_Loss: 5366.7739, Entropy: 2.0262
+
+Episode 1919, Reward: 650.0, MovingAvg(100): 677.60, avgMovingReward: 627.6, Epsilon: 0.0500, Actor_Loss: -42.1686, Critic_Loss: 2379.7815, Entropy: 2.0455
+
+Episode 1920, Reward: 330.0, MovingAvg(100): 676.70, avgMovingReward: 597.8, Epsilon: 0.0500, Actor_Loss: 43.8635, Critic_Loss: 2307.3111, Entropy: 2.0312
+
+Episode 1921, Reward: 530.0, MovingAvg(100): 678.80, avgMovingReward: 591.0, Epsilon: 0.0500, Actor_Loss: -8.2782, Critic_Loss: 4046.6758, Entropy: 2.0462
+
+Episode 1922, Reward: 440.0, MovingAvg(100): 662.60, avgMovingReward: 575.9, Epsilon: 0.0500, Actor_Loss: 21.8956, Critic_Loss: 3911.4654, Entropy: 2.0321
+
+Episode 1923, Reward: 680.0, MovingAvg(100): 664.80, avgMovingReward: 586.3, Epsilon: 0.0500, Actor_Loss: -6.0919, Critic_Loss: 1665.7271, Entropy: 2.0253
+
+Episode 1924, Reward: 280.0, MovingAvg(100): 664.00, avgMovingReward: 555.7, Epsilon: 0.0500, Actor_Loss: 60.2569, Critic_Loss: 3955.6298, Entropy: 2.0168
+
+Episode 1925, Reward: 1170.0, MovingAvg(100): 668.00, avgMovingReward: 617.1, Epsilon: 0.0500, Actor_Loss: -162.3933, Critic_Loss: 35000.8352, Entropy: 2.0418
+
+Episode 1926, Reward: 740.0, MovingAvg(100): 667.30, avgMovingReward: 629.4, Epsilon: 0.0500, Actor_Loss: 36.6634, Critic_Loss: 5292.5482, Entropy: 2.0329
+
+Episode 1927, Reward: 750.0, MovingAvg(100): 668.90, avgMovingReward: 641.5, Epsilon: 0.0500, Actor_Loss: 20.0044, Critic_Loss: 920.0242, Entropy: 2.0694
+
+Episode 1928, Reward: 760.0, MovingAvg(100): 670.60, avgMovingReward: 653.3, Epsilon: 0.0500, Actor_Loss: 11.7887, Critic_Loss: 968.4113, Entropy: 2.0908
+
+Episode 1929, Reward: 370.0, MovingAvg(100): 669.80, avgMovingReward: 625.0, Epsilon: 0.0500, Actor_Loss: 33.3941, Critic_Loss: 1588.5359, Entropy: 2.1033
+
+Episode 1930, Reward: 170.0, MovingAvg(100): 667.90, avgMovingReward: 579.5, Epsilon: 0.0500, Actor_Loss: 12.0092, Critic_Loss: 586.7864, Entropy: 2.1060
+
+Episode 1931, Reward: 260.0, MovingAvg(100): 666.60, avgMovingReward: 547.5, Epsilon: 0.0500, Actor_Loss: -27.5529, Critic_Loss: 1180.3637, Entropy: 2.1169
+
+Episode 1932, Reward: 240.0, MovingAvg(100): 665.90, avgMovingReward: 516.8, Epsilon: 0.0500, Actor_Loss: 10.9035, Critic_Loss: 446.8791, Entropy: 2.1186
+
+Episode 1933, Reward: 270.0, MovingAvg(100): 660.50, avgMovingReward: 492.1, Epsilon: 0.0500, Actor_Loss: 26.6880, Critic_Loss: 1054.6548, Entropy: 2.1234
+
+Episode 1934, Reward: 450.0, MovingAvg(100): 660.40, avgMovingReward: 487.9, Epsilon: 0.0500, Actor_Loss: 26.8236, Critic_Loss: 1073.3895, Entropy: 2.1247
+
+Episode 1935, Reward: 410.0, MovingAvg(100): 658.30, avgMovingReward: 480.1, Epsilon: 0.0500, Actor_Loss: -67.1679, Critic_Loss: 6285.6711, Entropy: 2.1246
+
+Episode 1936, Reward: 800.0, MovingAvg(100): 660.30, avgMovingReward: 512.1, Epsilon: 0.0500, Actor_Loss: -12.6661, Critic_Loss: 754.9597, Entropy: 2.1014
+
+Episode 1937, Reward: 930.0, MovingAvg(100): 654.30, avgMovingReward: 553.9, Epsilon: 0.0500, Actor_Loss: -13.7138, Critic_Loss: 1008.7812, Entropy: 2.0832
+
+Episode 1938, Reward: 180.0, MovingAvg(100): 652.30, avgMovingReward: 516.5, Epsilon: 0.0500, Actor_Loss: 11.2162, Critic_Loss: 1007.8097, Entropy: 2.0774
+
+Episode 1939, Reward: 480.0, MovingAvg(100): 649.40, avgMovingReward: 512.9, Epsilon: 0.0500, Actor_Loss: 3.8295, Critic_Loss: 218.4314, Entropy: 2.0790
+
+Episode 1940, Reward: 950.0, MovingAvg(100): 652.60, avgMovingReward: 556.6, Epsilon: 0.0500, Actor_Loss: 38.6840, Critic_Loss: 2992.9658, Entropy: 2.0530
+
+Episode 1941, Reward: 920.0, MovingAvg(100): 658.50, avgMovingReward: 592.9, Epsilon: 0.0500, Actor_Loss: 23.2322, Critic_Loss: 18192.4871, Entropy: 2.0461
+
+Episode 1942, Reward: 410.0, MovingAvg(100): 654.00, avgMovingReward: 574.6, Epsilon: 0.0500, Actor_Loss: 25.0830, Critic_Loss: 816.7478, Entropy: 2.0634
+
+Episode 1943, Reward: 210.0, MovingAvg(100): 651.10, avgMovingReward: 538.2, Epsilon: 0.0500, Actor_Loss: 8.2275, Critic_Loss: 508.4292, Entropy: 2.0763
+
+Episode 1944, Reward: 310.0, MovingAvg(100): 648.40, avgMovingReward: 515.3, Epsilon: 0.0500, Actor_Loss: -19.9659, Critic_Loss: 1202.6538, Entropy: 2.0929
+
+Episode 1945, Reward: 1240.0, MovingAvg(100): 654.80, avgMovingReward: 587.8, Epsilon: 0.0500, Actor_Loss: -353.7791, Critic_Loss: 171215.3031, Entropy: 2.0861
+
+Episode 1946, Reward: 310.0, MovingAvg(100): 646.00, avgMovingReward: 560.0, Epsilon: 0.0500, Actor_Loss: 0.6579, Critic_Loss: 503.2915, Entropy: 2.0707
+
+Episode 1947, Reward: 380.0, MovingAvg(100): 637.40, avgMovingReward: 542.0, Epsilon: 0.0500, Actor_Loss: 5.8496, Critic_Loss: 538.9702, Entropy: 2.0666
+
+Episode 1948, Reward: 300.0, MovingAvg(100): 633.40, avgMovingReward: 517.8, Epsilon: 0.0500, Actor_Loss: -20.0368, Critic_Loss: 1749.1555, Entropy: 2.0680
+
+Episode 1949, Reward: 680.0, MovingAvg(100): 633.90, avgMovingReward: 534.0, Epsilon: 0.0500, Actor_Loss: 61.7954, Critic_Loss: 4564.6617, Entropy: 2.0416
+
+Episode 1950, Reward: 310.0, MovingAvg(100): 618.90, avgMovingReward: 511.6, Epsilon: 0.0500, Actor_Loss: 46.2248, Critic_Loss: 3042.0461, Entropy: 2.0432
+
+Episode 1951, Reward: 420.0, MovingAvg(100): 618.70, avgMovingReward: 502.5, Epsilon: 0.0500, Actor_Loss: -2.2478, Critic_Loss: 1388.6145, Entropy: 2.0433
+
+Episode 1952, Reward: 270.0, MovingAvg(100): 618.70, avgMovingReward: 479.2, Epsilon: 0.0500, Actor_Loss: 54.9125, Critic_Loss: 3761.0624, Entropy: 2.0462
+
+Episode 1953, Reward: 450.0, MovingAvg(100): 619.80, avgMovingReward: 476.3, Epsilon: 0.0500, Actor_Loss: -61.0176, Critic_Loss: 4542.2204, Entropy: 2.0595
+
+Episode 1954, Reward: 330.0, MovingAvg(100): 615.40, avgMovingReward: 461.7, Epsilon: 0.0500, Actor_Loss: -16.6254, Critic_Loss: 580.9922, Entropy: 2.0616
+
+Episode 1955, Reward: 920.0, MovingAvg(100): 618.90, avgMovingReward: 507.5, Epsilon: 0.0500, Actor_Loss: -49.2097, Critic_Loss: 37392.5750, Entropy: 2.0409
+
+Episode 1956, Reward: 910.0, MovingAvg(100): 624.10, avgMovingReward: 547.8, Epsilon: 0.0500, Actor_Loss: 20.0103, Critic_Loss: 1485.4925, Entropy: 2.0204
+
+Episode 1957, Reward: 730.0, MovingAvg(100): 626.80, avgMovingReward: 566.0, Epsilon: 0.0500, Actor_Loss: -15.3243, Critic_Loss: 408.2280, Entropy: 2.0347
+
+Episode 1958, Reward: 610.0, MovingAvg(100): 619.50, avgMovingReward: 570.4, Epsilon: 0.0500, Actor_Loss: -31.2970, Critic_Loss: 7506.5468, Entropy: 2.0228
+
+Episode 1959, Reward: 850.0, MovingAvg(100): 624.20, avgMovingReward: 598.3, Epsilon: 0.0500, Actor_Loss: 23.7793, Critic_Loss: 1552.5576, Entropy: 2.0227
+
+Episode 1960, Reward: 730.0, MovingAvg(100): 627.70, avgMovingReward: 611.5, Epsilon: 0.0500, Actor_Loss: -56.1100, Critic_Loss: 4031.4815, Entropy: 2.0360
+
+Episode 1961, Reward: 310.0, MovingAvg(100): 625.40, avgMovingReward: 581.4, Epsilon: 0.0500, Actor_Loss: -3.4448, Critic_Loss: 1017.7612, Entropy: 2.0250
+
+Episode 1962, Reward: 1280.0, MovingAvg(100): 634.90, avgMovingReward: 651.2, Epsilon: 0.0500, Actor_Loss: -4.9849, Critic_Loss: 13754.2670, Entropy: 2.0025
+
+Episode 1963, Reward: 480.0, MovingAvg(100): 633.00, avgMovingReward: 634.1, Epsilon: 0.0500, Actor_Loss: -24.9122, Critic_Loss: 3566.9354, Entropy: 1.9996
+
+Episode 1964, Reward: 460.0, MovingAvg(100): 626.40, avgMovingReward: 616.7, Epsilon: 0.0500, Actor_Loss: 20.3987, Critic_Loss: 888.6336, Entropy: 2.0028
+
+Episode 1965, Reward: 250.0, MovingAvg(100): 616.60, avgMovingReward: 580.0, Epsilon: 0.0500, Actor_Loss: 50.4305, Critic_Loss: 2401.5798, Entropy: 2.0147
+
+Episode 1966, Reward: 670.0, MovingAvg(100): 616.50, avgMovingReward: 589.0, Epsilon: 0.0500, Actor_Loss: -12.9977, Critic_Loss: 1551.6620, Entropy: 2.0457
+
+Episode 1967, Reward: 330.0, MovingAvg(100): 607.00, avgMovingReward: 563.1, Epsilon: 0.0500, Actor_Loss: 12.3869, Critic_Loss: 406.9446, Entropy: 2.0414
+
+Episode 1968, Reward: 730.0, MovingAvg(100): 609.90, avgMovingReward: 579.8, Epsilon: 0.0500, Actor_Loss: -15.4351, Critic_Loss: 597.1060, Entropy: 2.0446
+
+Episode 1969, Reward: 590.0, MovingAvg(100): 607.10, avgMovingReward: 580.8, Epsilon: 0.0500, Actor_Loss: 19.9424, Critic_Loss: 483.7886, Entropy: 2.0322
+
+Episode 1970, Reward: 920.0, MovingAvg(100): 607.80, avgMovingReward: 614.7, Epsilon: 0.0500, Actor_Loss: -100.8116, Critic_Loss: 15915.6397, Entropy: 2.0485
+
+Episode 1971, Reward: 440.0, MovingAvg(100): 608.80, avgMovingReward: 597.3, Epsilon: 0.0500, Actor_Loss: 51.4492, Critic_Loss: 3006.0184, Entropy: 2.0349
+
+Episode 1972, Reward: 320.0, MovingAvg(100): 601.60, avgMovingReward: 569.5, Epsilon: 0.0500, Actor_Loss: -10.0978, Critic_Loss: 558.3122, Entropy: 2.0441
+
+Episode 1973, Reward: 670.0, MovingAvg(100): 603.00, avgMovingReward: 579.6, Epsilon: 0.0500, Actor_Loss: 22.5329, Critic_Loss: 2533.0719, Entropy: 2.0339
+
+Episode 1974, Reward: 510.0, MovingAvg(100): 603.00, avgMovingReward: 572.6, Epsilon: 0.0500, Actor_Loss: -17.8050, Critic_Loss: 2476.3245, Entropy: 2.0455
+
+Episode 1975, Reward: 490.0, MovingAvg(100): 599.40, avgMovingReward: 564.4, Epsilon: 0.0500, Actor_Loss: 23.6580, Critic_Loss: 552.1473, Entropy: 2.0620
+
+Episode 1976, Reward: 610.0, MovingAvg(100): 602.80, avgMovingReward: 568.9, Epsilon: 0.0500, Actor_Loss: -37.2202, Critic_Loss: 1820.5484, Entropy: 2.0821
+
+Episode 1977, Reward: 540.0, MovingAvg(100): 600.90, avgMovingReward: 566.0, Epsilon: 0.0500, Actor_Loss: -9.2513, Critic_Loss: 369.6421, Entropy: 2.0588
+
+Episode 1978, Reward: 2020.0, MovingAvg(100): 615.90, avgMovingReward: 711.4, Epsilon: 0.0500, Actor_Loss: 20.9992, Critic_Loss: 799.6342, Entropy: 2.0133
+
+Episode 1979, Reward: 980.0, MovingAvg(100): 623.30, avgMovingReward: 738.3, Epsilon: 0.0500, Actor_Loss: -134.7600, Critic_Loss: 22102.1475, Entropy: 2.0278
+
+Episode 1980, Reward: 1250.0, MovingAvg(100): 630.10, avgMovingReward: 789.5, Epsilon: 0.0500, Actor_Loss: -19.0487, Critic_Loss: 2717.6858, Entropy: 1.9771
+
+Episode 1981, Reward: 400.0, MovingAvg(100): 630.10, avgMovingReward: 750.5, Epsilon: 0.0500, Actor_Loss: 27.3865, Critic_Loss: 1316.0787, Entropy: 1.9518
+
+Episode 1982, Reward: 730.0, MovingAvg(100): 625.40, avgMovingReward: 748.5, Epsilon: 0.0500, Actor_Loss: 56.7349, Critic_Loss: 3725.5184, Entropy: 1.9762
+
+Episode 1983, Reward: 210.0, MovingAvg(100): 620.50, avgMovingReward: 694.6, Epsilon: 0.0500, Actor_Loss: 45.5693, Critic_Loss: 2074.8630, Entropy: 1.9762
+
+Episode 1984, Reward: 970.0, MovingAvg(100): 625.00, avgMovingReward: 722.2, Epsilon: 0.0500, Actor_Loss: 5.4607, Critic_Loss: 14245.5152, Entropy: 1.9960
+
+Episode 1985, Reward: 1980.0, MovingAvg(100): 642.00, avgMovingReward: 847.9, Epsilon: 0.0500, Actor_Loss: -40.3251, Critic_Loss: 58386.2297, Entropy: 1.9964
+
+Episode 1986, Reward: 280.0, MovingAvg(100): 638.60, avgMovingReward: 791.1, Epsilon: 0.0500, Actor_Loss: -5.0922, Critic_Loss: 1327.9745, Entropy: 1.9795
+
+Episode 1987, Reward: 100.0, MovingAvg(100): 636.60, avgMovingReward: 722.0, Epsilon: 0.0500, Actor_Loss: 65.2800, Critic_Loss: 4587.5443, Entropy: 1.9683
+
+Episode 1988, Reward: 1110.0, MovingAvg(100): 645.50, avgMovingReward: 760.8, Epsilon: 0.0500, Actor_Loss: 48.3175, Critic_Loss: 4058.0713, Entropy: 1.9859
+
+Episode 1989, Reward: 830.0, MovingAvg(100): 641.10, avgMovingReward: 767.7, Epsilon: 0.0500, Actor_Loss: 20.2625, Critic_Loss: 1049.2976, Entropy: 2.0041
+
+Episode 1990, Reward: 220.0, MovingAvg(100): 636.70, avgMovingReward: 713.0, Epsilon: 0.0500, Actor_Loss: 5.0594, Critic_Loss: 292.3624, Entropy: 2.0065
+
+Episode 1991, Reward: 790.0, MovingAvg(100): 638.30, avgMovingReward: 720.7, Epsilon: 0.0500, Actor_Loss: -19.0334, Critic_Loss: 2708.2272, Entropy: 2.0121
+
+Episode 1992, Reward: 360.0, MovingAvg(100): 630.90, avgMovingReward: 684.6, Epsilon: 0.0500, Actor_Loss: 28.4403, Critic_Loss: 1470.7595, Entropy: 1.9945
+
+Episode 1993, Reward: 1220.0, MovingAvg(100): 637.50, avgMovingReward: 738.1, Epsilon: 0.0500, Actor_Loss: -30.9547, Critic_Loss: 10637.9745, Entropy: 2.0096
+
+Episode 1994, Reward: 490.0, MovingAvg(100): 625.50, avgMovingReward: 713.3, Epsilon: 0.0500, Actor_Loss: 50.1261, Critic_Loss: 3295.6385, Entropy: 1.9822
+
+Episode 1995, Reward: 530.0, MovingAvg(100): 621.40, avgMovingReward: 695.0, Epsilon: 0.0500, Actor_Loss: 59.7062, Critic_Loss: 4245.8348, Entropy: 1.9789
+
+Episode 1996, Reward: 340.0, MovingAvg(100): 619.40, avgMovingReward: 659.5, Epsilon: 0.0500, Actor_Loss: 50.5212, Critic_Loss: 2496.6290, Entropy: 2.0126
+
+Episode 1997, Reward: 290.0, MovingAvg(100): 617.00, avgMovingReward: 622.5, Epsilon: 0.0500, Actor_Loss: 63.7466, Critic_Loss: 4868.4196, Entropy: 2.0379
+
+Episode 1998, Reward: 740.0, MovingAvg(100): 618.30, avgMovingReward: 634.3, Epsilon: 0.0500, Actor_Loss: 6.1657, Critic_Loss: 864.8771, Entropy: 2.0337
+
+Episode 1999, Reward: 400.0, MovingAvg(100): 617.50, avgMovingReward: 610.9, Epsilon: 0.0500, Actor_Loss: 48.4078, Critic_Loss: 2739.5767, Entropy: 2.0445
+Checkpoint saved at episode 2000 (2025-04-30 23:55:44)
+train finished 訓練完成！
