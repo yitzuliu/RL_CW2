@@ -2,8 +2,6 @@
 
 Training a Deep Q-Network (DQN) to play Atari games using Prioritized Experience Replay (PER) technique.
 
-![Atari Game Example](https://gymnasium.farama.org/_images/ms_pacman.gif)
-
 ## 📝 Project Overview
 
 This project implements a Deep Q-Network (DQN) with Prioritized Experience Replay (PER) to play Atari games. PER is an enhanced experience replay mechanism that prioritizes sampling of high-value experiences based on their importance (measured by TD-error). This approach significantly improves DQN's learning efficiency and performance.
@@ -16,19 +14,6 @@ This project implements a Deep Q-Network (DQN) with Prioritized Experience Repla
 - Gymnasium (newer version of OpenAI Gym)
 - NumPy, Matplotlib, OpenCV
 - Other dependencies listed in requirements.txt
-
-### Installation Steps
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/atari-per-dqn.git
-cd atari-per-dqn
-```
-
-2. Install required dependencies
-```bash
-pip install -r requirements.txt
-```
 
 ## 📊 Project Structure
 
