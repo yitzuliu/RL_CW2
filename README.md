@@ -10,7 +10,7 @@ This project implements and compares different reinforcement learning approaches
 - **Dueling DQN** - Network architecture that separates state value and advantage estimations
 - **Advantage Actor-Critic (A2C)** - Policy gradient method with baseline function
 - **Proximal Policy Optimization (PPO)** - Policy optimization with clipped surrogate objective
-- **Rainbow DQN - Enhanced version of DQN with 6 key improvements
+- **Rainbow DQN** - Enhanced version of DQN with 6 key improvements
 
 ## Repository Structure
 
