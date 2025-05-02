@@ -1,25 +1,66 @@
+# OS generated files
 .DS_Store
 Thumbs.db
+desktop.ini
+*.directory
 
-*.log
-*.tmp
-*.swp
-
-*.class
-*.pyc
-*.o
-*.so
-*.out
-
-venv/
-.env/
-
-node_modules/
-
-__pycache__/
-
-.ipynb_checkpoints/
-
+# Editor/IDE files
 .vscode/
 .idea/
 *.iml
+*.sublime-*
+.atom/
+.eclipse/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Compiled files
+*.class
+*.pyc
+__pycache__/
+*.o
+*.so
+*.out
+*.dll
+*.exe
+
+# Python environments
+venv/
+.env/
+env/
+.venv/
+.python-version
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Model checkpoints and large data
+*.pt
+*.pth
+*.h5
+*.ckpt
+checkpoints/
+models/saved/
+
+# Cached data
+.cache/
+.pytest_cache/
+
+# Training logs and experiment results
+logs/
+runs/
+tensorboard/
+wandb/
+
+# Packaging
+*.egg-info/
+dist/
+build/
