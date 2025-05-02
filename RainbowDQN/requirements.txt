@@ -1,0 +1,8 @@
+numpy
+torch
+typer
+tqdm
+gymnasium==1.1.1
+ale_py==0.10.2
+opencv-python
+plotly
