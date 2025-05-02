@@ -34,11 +34,29 @@ This project implements and compares different reinforcement learning approaches
 │   │   ├── sumtree.py        
 │   │   └── ...              
 │   └── README.md             
-└── ppo/                      
-    ├── config.py             
-    ├── main.py               
-    ├── ppo_cnn.py          
-    └── ...                   
+├── ppo/                      
+│   ├── config.py             
+│   ├── main.py               
+│   ├── ppo_cnn.py
+│   ├── chart.py
+│   ├── chart_seperate.py  
+│   ├── demo.py
+│   ├── hex_result/
+│   │   ├── actor_loss_record.npy
+│   │   ├── critic_loss_record.npy
+│   │   ├── epsilon_record.npy
+│   │   ├── log_*.txt files
+│   │   └── ...
+│   └── ...                   
+└── RainbowDQN/
+    ├── agent.py
+    ├── environment.py
+    ├── main.py
+    ├── memory_replay.py
+    ├── model.py
+    ├── utils.py
+    ├── test.py
+    └── requirements.txt
 ```
 
 ### Prerequisites
