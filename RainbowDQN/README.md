@@ -13,4 +13,4 @@ To run the game:
 
 2. On Hex
     hare build -t <container name>
-    hare run "container"
+    hare run "container with arguments as necessary"
